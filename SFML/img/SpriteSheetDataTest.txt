@@ -1,0 +1,10 @@
+Texture ../../Lab4/img/DwarfSpriteSheet.png
+Size 32 32
+Scale 3.0 3.0
+#|Type|Name|StartFrame|EndFrame|Row|FrameTime|FrameActionStart|End|
+AnimationType Directional
+Animation Idle 0 4 0 0.2 -1 -1
+Animation Walk 0 7 1 0.1 -1 -1
+Animation Attack 0 6 2 0.1 4 5
+Animation Shout 0 3 3 0.05 2 3
+Animation Death 0 6 4 0.2 -1 -1
